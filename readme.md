@@ -8,7 +8,7 @@ New Tones accounts are created using email addresses and passwords.
 Email addresses are only used for logging in, password resets, responding to emails that you initiate, and sending notifications that you request. We don’t send promotional emails.
 We store information about your products, reviews, and posts to sync this information between the website and your devices. We also collect anonymous statistics about which products are most popular to help inform our recommendation engine.
 
-##Technical basics
+## Technical basics
 
 If you enable notifications, we must store a token to send them. We never use notifications for marketing.
 If you upload files to Tones', we need to store them until you delete them.
