@@ -44,9 +44,9 @@ If you find a security vulnerability on Tones Beauty, please email [hey@tonesbea
 
 ## Incorporated rules and policies
 
-By using the Services, you agree to let Tones Beauty collect and use information as detailed in our [Privacy Policy](https://www.github.com/tonesbeauty/legal/privacy.md). If you’re outside the United States, you consent to letting Tones Beauty transfer, store, and process your information (including your personal information and content) in and out of the United States.
+By using the Services, you agree to let Tones Beauty collect and use information as detailed in our [Privacy Policy](https://github.com/tonesbeauty/legal/blob/main/privacy.md). If you’re outside the United States, you consent to letting Tones Beauty transfer, store, and process your information (including your personal information and content) in and out of the United States.
 
-To enable a functioning community, we have rules that are available within the product and may change over time. Under our [Copyright and DMCA Policy](https://www.github.com/tonesbeauty/legal/dmca.md), we’ll remove material after receiving a valid takedown notice. Under our [Trademark Policy](https://www.github.com/tonesbeauty/legal/trademark.md), we’ll investigate any use of another’s trademark and respond appropriately.
+To enable a functioning community, we have rules that are available within the product and may change over time. Under our [Copyright and DMCA Policy](https://www.github.com/tonesbeauty/legal/blob/main/dmca.md), we’ll remove material after receiving a valid takedown notice. Under our [Trademark Policy](https://www.github.com/tonesbeauty/legal/blob/main/trademark.md), we’ll investigate any use of another’s trademark and respond appropriately.
 
 By using Tones Beauty, you agree to follow these Rules and Policies. If you don’t, we may remove content, or edit block or ban you.
 
