@@ -62,4 +62,6 @@ By using Tones Beauty, you agree to follow these Rules and Policies. If you donâ
 
 *Entire agreement.* These Terms (including any document incorporated by reference into them) are the whole agreement between Tones Beauty and you concerning the Services.
 
-Questions? [hey@tonesbeauty.com](mailto:hey@tonesbeauty.com)
+## Questions? 
+
+Reach out at [hey@tonesbeauty.com](mailto:hey@tonesbeauty.com)
