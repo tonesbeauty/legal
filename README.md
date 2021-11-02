@@ -8,4 +8,6 @@ Our Terms of Service and Privacy Policy are modified versions of [those made ava
 
 This repository also includes a Copyright and DMCA Policy and a Trademark Policy created by us and made available under the same license.
 
-Questions? [hey@tonesbeauty.com](mailto:hey@tonesbeauty.com)
+## Questions? 
+
+Reach out at [hey@tonesbeauty.com](mailto:hey@tonesbeauty.com)
