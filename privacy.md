@@ -56,6 +56,7 @@ We use encryption (HTTPS/TLS) to protect data transmitted to and from our mobile
 
 Tones Beauty may periodically update this policy. We’ll notify you about significant changes to it. We keep [a historical record of all changes to this policy on GitHub](https://github.com/tonesbeauty/legal).
 
-## Questions
+## Questions? 
 
-Questions? [hey@tonesbeauty.com](mailto:hey@tonesbeauty.com)
+Reach out at [hey@tonesbeauty.com](mailto:hey@tonesbeauty.com)
+
